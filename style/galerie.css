@@ -1,0 +1,25 @@
+
+
+h2 {
+font-size: 32px;
+background-color: #CCCCE8;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 20px;
+margin-bottom: 10px;
+}
+
+.wedding-photos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.wed-p {
+  display: flex;
+  padding: 10px;
+}
+
+.wed {
+ width: 100%;
+}
+
